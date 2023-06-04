@@ -14,7 +14,7 @@
       "type": "triangle",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#000fff"
       },
       "polygon": {
         "nb_sides": 5
