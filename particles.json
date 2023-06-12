@@ -8,13 +8,13 @@
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#35363b"
     },
     "shape": {
       "type": "triangle",
       "stroke": {
         "width": 0,
-        "color": "#000fff"
+        "color": "#ee5135"
       },
       "polygon": {
         "nb_sides": 5
