@@ -16,7 +16,7 @@ particlesJS('particles-js',
         "type": "triangle",
         "stroke": {
           "width": 0,
-          "color": "#ee5135"
+          "color": "red"
         },
         "polygon": {
           "nb_sides": 5
