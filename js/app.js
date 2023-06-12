@@ -16,7 +16,7 @@ particlesJS('particles-js',
         "type": "triangle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#ee5135"
         },
         "polygon": {
           "nb_sides": 5
@@ -109,7 +109,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#4d3c3d",
+      "background_color": "#35363b",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
