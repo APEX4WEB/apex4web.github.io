@@ -1,0 +1,13 @@
+title: Portfolio & Executive Profile
+description: Technology Strategy, Enterprise IT Operations & Digital Transformation
+url: "https://apex4web.github.io"
+baseurl: ""
+
+# Jekyll settings
+markdown: kramdown
+theme: minima # Optional default theme base; custom SCSS overrides below
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
