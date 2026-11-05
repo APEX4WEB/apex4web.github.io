@@ -5,7 +5,7 @@ baseurl: ""
 
 # Jekyll settings
 markdown: kramdown
-theme: minima # Optional default theme base; custom SCSS overrides below
+theme: minima
 
 # Build settings
 plugins:

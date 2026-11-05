@@ -1,0 +1,31 @@
+roles:
+  - title: "IT Operations & Technology Strategy Lead"
+    company: "Financial Analytics & Credit Risk Solutions"
+    period: "2020 - Present"
+    highlights:
+      - "Led enterprise IT infrastructure transformation and DevOps automation across multi-platform hybrid environments."
+      - "Engineered scalable cloud and containerized strategies leveraging Kubernetes, Docker, and CI/CD pipelines."
+      - "Optimized operational efficiency and process alignment utilizing Six Sigma methodologies."
+
+  - title: "Enterprise Systems Administrator & DevOps Specialist"
+    company: "Technology Services"
+    period: "2016 - 2020"
+    highlights:
+      - "Managed enterprise Active Directory, domain services, certificate management, and cross-platform infrastructure."
+      - "Implemented automated deployment systems and server orchestration workflows."
+
+projects:
+  - name: "China Cloud & DGX Delivery Strategy"
+    category: "Enterprise Strategy & Cloud Architecture"
+    description: "Formulated a strategic market entry and compliance framework for high-performance cloud compute and AI service models."
+    tags: ["Cloud Strategy", "Governance", "Enterprise Tech"]
+
+  - name: "NYC Spatial Data & Analytics Model"
+    category: "Data Science & Spatial Modeling"
+    description: "Built an R-based spatial analytics framework utilizing Open Data to model urban foot-traffic density, profitability, and regulatory risk."
+    tags: ["RStudio", "Spatial Analytics", "sf / ggplot2"]
+
+  - name: "Containerized Microservices Cluster"
+    category: "DevOps & Infrastructure"
+    description: "Deployed edge server environments with K3s, Docker Compose, and Git-driven configuration pipelines."
+    tags: ["Kubernetes", "Docker", "Linux"]
